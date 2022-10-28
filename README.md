@@ -17,11 +17,11 @@
 
 ## Preview Screenshot
 <div align="center">
-  <img src="./Screenshoots/Screenshot_1920x864_1.png" alt="Home 1" width="45%"></img> &nbsp;&nbsp; 
-  <img src="./Screenshoots/Screenshot_1920x864_2.png" alt="Search Page" width="45%"></img> &nbsp;&nbsp; 
-  <img src="./Screenshoots/Screenshot_1920x864_3.png" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
-  <img src="./Screenshoots/Screenshot_1920x864_4.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
-  <img src="./Screenshoots/screenshot_1666932407.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Screenshots/Screenshot_1920x864_1.png" alt="Home 1" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Screenshots/Screenshot_1920x864_2.png" alt="Search Page" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Screenshots/Screenshot_1920x864_3.png" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Screenshots/Screenshot_1920x864_4.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Screenshots/screenshot_1666932407.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
 </div>
   
 ## Technology
