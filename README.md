@@ -1,6 +1,6 @@
 # 2D Shooter Game
 
-:wave: My Project at FPT UNI course PRJ :wave:
+:wave: My Project at Coursera :wave:
 
 ## Table of Contents
 - [Description](#description)
